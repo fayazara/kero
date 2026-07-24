@@ -1,0 +1,25 @@
+kero.xcodeproj/project.pbxproj
+  s_e305c75cda0f67::t_45cf71cf6fe772 6,218,275
+kero/AgentUsage.swift
+  s_e305c75cda0f67::t_37100f765e0fbe 1-126
+kero/ClaudeUsageReader.swift
+  s_e305c75cda0f67::t_addcc7c2d0b2d7 1-237
+kero/RightSidebarView.swift
+  s_e305c75cda0f67::t_383c2e5531033e 18,68-71,158-162,1806,1812,1826,1849,1970-2003,2191-2383
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "841c8f6b262eec4c0ec13ab43af9db0c14dba460",
+  "prompts": {},
+  "sessions": {
+    "s_e305c75cda0f67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "de93928b-6c12-48d0-a01c-690aaaefbfb8",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Fayaz Ahmed <fayazara@gmail.com>"
+    }
+  }
+}
