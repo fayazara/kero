@@ -1,0 +1,27 @@
+kero/RightSidebarView.swift
+  s_e305c75cda0f67::t_383c2e5531033e 18,68-71,158-162,1806,1812,1826,1849,1970-2003,2191-2383
+kero/AgentUsage.swift
+  s_e305c75cda0f67::t_37100f765e0fbe 1-126
+kero/ClaudeUsageReader.swift
+  s_e305c75cda0f67::t_addcc7c2d0b2d7 1-237
+kero/AgentUsageModel.swift
+  s_e305c75cda0f67::t_47b8ed1fcf5513 1-180
+kero/CodexUsageReader.swift
+  s_e305c75cda0f67::t_c7f8c5d6c71908 1-199
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3b570403dea125870e185afe8c9fa46a140ff2e7",
+  "prompts": {},
+  "sessions": {
+    "s_e305c75cda0f67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "de93928b-6c12-48d0-a01c-690aaaefbfb8",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Fayaz Ahmed <fayazara@gmail.com>"
+    }
+  }
+}
